@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.exe
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.deps.json
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.dll
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.pdb
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.dll
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.pdb
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.genruntimeconfig.cache
+C:\Users\ThinkPad\source\repos\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.csprojAssemblyReference.cache
